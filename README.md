@@ -1,0 +1,2 @@
+# Job-Market-Insights---Unveiling-Trends-in-Skills-Experience-Industry-Demands
+A data analysis project exploring job market trends across skills, experience levels, and industry demand. This report uncovers which skills are rising, which roles are most competitive, and how experience impacts hiring patterns. Visual insights and structured analytics provide a clear overview for career or hiring decisions.
